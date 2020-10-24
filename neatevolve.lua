@@ -9,6 +9,7 @@ if gameinfo.getromname() == "Super Mario World (USA)" then
         "Down",
         "Left",
         "Right",
+        
     }
 elseif gameinfo.getromname() == "Super Mario Bros." then
     Filename = "SMB1-1.state"
